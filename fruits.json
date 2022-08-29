@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "image":"/img/Banana.jpg",
+        "fruit": "Banana",
+        "price": 10,
+        "qty": 50
+    },
+    {
+        "id":2,
+        "image":"/img/Kinnow.jpg",
+        "fruit": "Kinnow",
+        "price": 20,
+        "qty": 30
+    },
+    {
+        "id":3,
+        "image":"/img/mango-Agroponiente.png",
+        "fruit": "Mango",
+        "price": 15,
+        "qty": 45
+    },
+    {
+        "id":4,
+        "image":"/img/Pomegranate.jpg",
+        "fruit": "Pomegranate",
+        "price": 30,
+        "qty": 25
+    },
+    {
+        "id":5,
+        "image":"/img/Red Apple.webp",
+        "fruit": "Red Apple",
+        "price": 25,
+        "qty": 75
+    }
+]
